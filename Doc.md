@@ -10,7 +10,8 @@ body: const Center(
           image: AssetImage('asset/image.png'),
         ),
       ),
-
+````
+````
 FlatButton(
             onPressed: () {},
             ),
@@ -21,7 +22,8 @@ Or this can be use
 body: Center(
         child: Image.asset('asset/image.png'),
       ),
-
+````
+````
 TextButton(
             onPressed: () {},
             ),
