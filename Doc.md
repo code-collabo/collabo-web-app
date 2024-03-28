@@ -10,6 +10,10 @@ body: const Center(
           image: AssetImage('asset/image.png'),
         ),
       ),
+
+FlatButton(
+            onPressed: () {},
+            ),
 ````
 Or this can be use
 ## Alternative code i got
@@ -17,6 +21,10 @@ Or this can be use
 body: Center(
         child: Image.asset('asset/image.png'),
       ),
+
+TextButton(
+            onPressed: () {},
+            ),
 ````
 ## Note
 "The 'asset' is the will be the name of the folder created where the image in use are being saved. "
