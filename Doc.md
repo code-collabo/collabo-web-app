@@ -30,3 +30,8 @@ TextButton(
 ````
 ## Note
 "The 'asset' is the will be the name of the folder created where the image in use are being saved. "
+
+Old Widget =>  New Widget
+FlatButton => 	TextButton
+RaisedButton => ElevatedButton
+OutlineButton	=> OutlinedButton	
