@@ -1,6 +1,10 @@
-# Collabo Community App
 
-> We no longer develop this app here. Head over to the new repository: https://github.com/collabo-community/web-client 
+> We no longer develop projects in this GitHub organisation. Head over to our new GitHub organisation to find projects to contribute to: https://github.com/collabo-community
+
+#
+
+# Collabo Community App
+Collabo Community App
 
 <!--
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://code-collabo.gitbook.io/collabo-contributor/collabo-web-app-project/contribute-to-collabo-web-app) [![GitHub pull requests](https://img.shields.io/github/issues-pr/code-collabo/collabo-web-app?color=goldenrod)](https://github.com/code-collabo/collabo-web-app/pulls)
