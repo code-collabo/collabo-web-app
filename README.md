@@ -15,3 +15,4 @@ Find out how to use and contribute to this project in the [Collabo Community App
 
 To learn more about Collabo Community and other projects, feel free to visit the official [Collabo Community Documentation](https://code-collabo.gitbook.io/docs)
 -->
+
